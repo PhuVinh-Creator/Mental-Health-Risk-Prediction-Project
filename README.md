@@ -116,8 +116,8 @@ See **Appendix A** of the final report for the full variable list.
 | Sheena Huang | Presentation design, visual layout, chart design, narrative flow, data cleaning & EDA |
 | Bharati Sahani | Report writing (Introduction, Data, Discussion), data cleaning & EDA |
 | Enestina Raradza | Report writing (Methods, Results, Conclusion), data cleaning & EDA |
-| Prince M. Nkomo | ML implementation, model training, tuning & evaluation (Scenarios A & B) |
-| Steven Nguyen | ML implementation, model training, tuning & evaluation (Scenarios A & B) |
+| Prince M. Nkomo | ML implementation, model training, tuning & evaluation (Scenarios A & B), data cleaning & EDA |
+| Steven Nguyen | ML implementation, model training, tuning & evaluation (Scenarios A & B), data cleaning & EDA |
 
 ---
 
