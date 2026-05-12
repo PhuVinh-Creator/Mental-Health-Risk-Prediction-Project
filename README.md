@@ -7,7 +7,10 @@ This project uses the CDC BRFSS 2024 public-use data file. Please download it be
 
 **[2024 BRFSS Data (SAS Transport Format)](https://cdc.gov/brfss/annual_data/2024/files/LLCP2024XPT.zip)**
 
-Once downloaded, place the `.XPT` file in the `/data` directory before running the preprocessing scripts.
+To import in python with the following code: 
+
+import pandas as pd
+df = pd.read_sas('LLCP2024.XPT', format='xport')
 
 ---
 
@@ -17,19 +20,6 @@ This project applies statistical learning methods to the 2024 Behavioral Risk Fa
 
 The core research question:
 > *"To what extent can BRFSS 2024 survey variables predict frequent mental distress and the number of mentally unhealthy days among adults — and which predictors most consistently explain these outcomes?"*
-
----
-
-## Project Structure 📁
-
-```
-├── data/                   # Place the downloaded BRFSS .XPT file here
-├── notebooks/              # Jupyter notebooks for preprocessing, EDA, and modeling
-├── outputs/                # Model outputs, charts, and evaluation results
-├── presentation/           # Final slide deck (PDF)
-├── report/                 # Final academic report (PDF)
-└── README.md
-```
 
 ---
 
