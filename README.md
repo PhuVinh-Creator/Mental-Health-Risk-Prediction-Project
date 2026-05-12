@@ -3,11 +3,9 @@ Using CDC BRFSS 2024 Survey Data
 
 ## ⚠️ Dataset Download
 
-This project uses the CDC BRFSS 2024 public-use data file. Due to large size dataset, please download it before running any code at:
+This project uses the CDC BRFSS 2024 public-use data file. Please download it before running any code:
 
-**[[2024 BRFSS Data (SAS Transport Format)](https://cdc.gov/brfss/annual_data/2024/files/LLCP2024XPT.zip)](https://cdc.gov/brfss/annual_data/annual_2024.html)**
-
-> Direct link: https://cdc.gov/brfss/annual_data/2024/files/LLCP2024XPT.zip
+**[2024 BRFSS Data (SAS Transport Format)](https://cdc.gov/brfss/annual_data/2024/files/LLCP2024XPT.zip)**
 
 Once downloaded, place the `.XPT` file in the `/data` directory before running the preprocessing scripts.
 
