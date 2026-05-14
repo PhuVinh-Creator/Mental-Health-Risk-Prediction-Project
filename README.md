@@ -1,7 +1,7 @@
 # Mental-Health-Risk-Prediction-Project
 Using CDC BRFSS 2024 Survey Data
 
-## ⚠️ Dataset Download
+## ⚠️ Dataset Download (It will automatically download the dataset once the link clicked)
 
 This project uses the CDC BRFSS 2024 public-use data file. Due to large dataset size, please download the data below this link before running any code:
 
